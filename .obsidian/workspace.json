@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1697c398085b8f99",
+            "id": "05b1c846c8f1b11f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Studio di funzione/Dominio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematica/Studio di funzione/Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematica/Studio di funzione/Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matematica/Studio di funzione/Dominio.md"
+              }
             }
           }
         ]
@@ -128,8 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad9688a956e7ee58",
+  "active": "05b1c846c8f1b11f",
   "lastOpenFiles": [
+    "Matematica/Studio di funzione/Studio di funzione.md",
+    "Matematica/Funzioni/Funzione.md",
+    "Matematica/Studio di funzione/Dominio.md",
     "Matematica/Untitled.md"
   ]
 }
