@@ -1,5 +1,5 @@
 #matematica 
-Le forme di indecisione sono operazioni che coinvolgono infiniti e infinitesimi nel calcolo dei [[Limiti]] per le quali non è possibile determinare un risultato a priori e sono 7:
+Le forme di indecisione sono operazioni che coinvolgono infiniti e infinitesimi nel calcolo dei [[Limiti|limiti]] per le quali non è possibile determinare un risultato a priori e sono 7:
 $$\frac{0}{0}$$
 $$\frac{\infty}{\infty}$$
 $$0\cdot\infty$$
