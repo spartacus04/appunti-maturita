@@ -8,6 +8,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "39dacc7b649c95d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79d30fa13b1439fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23bf9e3d9687307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c7dfb5ee2f0f3e71",
             "type": "leaf",
             "pinned": true,
@@ -16,20 +52,9 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7f8a3122d0c88fa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md"
+              }
             }
           },
           {
@@ -144,23 +173,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "17fc7bd8ec128208",
+  "active": "c23bf9e3d9687307",
   "lastOpenFiles": [
-    "Matematica/Studio di funzione/Forme di indecisione.md",
-    "Matematica/Studio di funzione/Dominio.md",
-    "Matematica/Studio di funzione/Continuità.md",
-    "Matematica/Studio di funzione/Limiti.md",
-    "Matematica/Cheat Sheets/Scomposizioni.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
+    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
     "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
-    "Matematica/Studio di funzione/Studio di funzione.md",
-    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md"
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/UDP.md",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
+    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/TCP.png",
+    "Sistemi/Modello ISO-OSI/Livello Rete/Res/IPv4.png",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/Livello Trasporto.md",
+    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md"
   ]
 }
