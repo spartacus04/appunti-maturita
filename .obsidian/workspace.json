@@ -8,15 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05b1c846c8f1b11f",
+            "id": "c7dfb5ee2f0f3e71",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematica/Studio di funzione/Dominio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Studio di funzione/Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Studio di funzione/Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matematica/Studio di funzione/Dominio.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,11 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05b1c846c8f1b11f",
+  "active": "c7dfb5ee2f0f3e71",
   "lastOpenFiles": [
-    "Matematica/Studio di funzione/Studio di funzione.md",
-    "Matematica/Funzioni/Funzione.md",
+    "Matematica/Studio di funzione/Forme di indecisione.md",
+    "Matematica/Studio di funzione/Limiti.md",
+    "Matematica/Cheat Sheets/Scomposizioni.md",
+    "Matematica/Studio di funzione/Asintoto.md",
+    "Matematica/Studio di funzione/Intersezioni con gli assi.md",
     "Matematica/Studio di funzione/Dominio.md",
-    "Matematica/Untitled.md"
+    "Matematica/Funzioni/Funzione.md",
+    "Matematica/Studio di funzione/Segno di una funzione.md",
+    "Matematica/Studio di funzione/Studio di funzione.md",
+    "2022-12-08.md"
   ]
 }

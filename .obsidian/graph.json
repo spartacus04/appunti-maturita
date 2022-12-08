@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Matematica",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04427083333333,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.65625,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 179,
+  "scale": 0.7132754626224453,
+  "close": false
+}
