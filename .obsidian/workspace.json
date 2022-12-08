@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md"
+                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md"
               }
             }
           },
@@ -180,8 +180,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c23bf9e3d9687307",
+  "active": "79d30fa13b1439fe",
   "lastOpenFiles": [
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
     "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
     "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
     "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
@@ -190,7 +191,6 @@
     "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
     "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/TCP.png",
     "Sistemi/Modello ISO-OSI/Livello Rete/Res/IPv4.png",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/Livello Trasporto.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md"
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/Livello Trasporto.md"
   ]
 }
