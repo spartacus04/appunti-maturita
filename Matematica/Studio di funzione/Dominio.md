@@ -3,11 +3,11 @@ Il dominio di una funzione è l'insieme su cui è definita
 
 ### Cheat sheet
 
-| funzione | calcolo del dominio |
-|-----------|-----------------------|
-| $$ \frac{f(x)}{g(x)} $$| $$g(x) \neq 0$$|
-| $$\log{x}$$|$$x>0$$|
-|$$\sqrt[2n]{x}$$|$$x\geq0$$|
+| funzione                | calcolo del dominio |
+| ----------------------- | ------------------- |
+| $$ \frac{f(x)}{g(x)} $$ | $$g(x) \neq 0$$     |
+| $$\log{x}$$             | $$x>0$$             |
+| $$\sqrt[2n]{x}$$        | $$x\geq0$$          |
 
 ### Come calcolarlo e esprimerlo
 

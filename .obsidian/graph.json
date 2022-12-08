@@ -5,13 +5,62 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Matematica",
       "color": {
         "a": 1,
         "rgb": 255
+      }
+    },
+    {
+      "query": "Italiano",
+      "color": {
+        "a": 1,
+        "rgb": 16776966
+      }
+    },
+    {
+      "query": "Storia",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Inglese",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "Sistemi",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "TPSIT",
+      "color": {
+        "a": 1,
+        "rgb": 16737300
+      }
+    },
+    {
+      "query": "GPOI",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "Informatica",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
@@ -25,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.7132754626224453,
+  "scale": 0.7132754626224477,
   "close": false
 }
