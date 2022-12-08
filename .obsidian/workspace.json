@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +154,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c23dfc18454f1177",
+  "active": "c7dfb5ee2f0f3e71",
   "lastOpenFiles": [
+    "Matematica/Studio di funzione/Forme di indecisione.md",
     "Matematica/Studio di funzione/Asintoto.md",
     "Matematica/Studio di funzione/Continuità.md",
     "Matematica/Studio di funzione/Studio di funzione.md",
     "Matematica/Studio di funzione/Limiti.md",
     "Matematica/Studio di funzione/Segno di una funzione.md",
-    "Matematica/Studio di funzione/Forme di indecisione.md",
     "Matematica/Cheat Sheets/Scomposizioni.md",
     "Matematica/Studio di funzione/Intersezioni con gli assi.md",
     "Matematica/Studio di funzione/Dominio.md",
