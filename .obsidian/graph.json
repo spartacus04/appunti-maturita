@@ -6,74 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "Matematica",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "Italiano",
-      "color": {
-        "a": 1,
-        "rgb": 16776966
-      }
-    },
-    {
-      "query": "Storia",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "Inglese",
-      "color": {
-        "a": 1,
-        "rgb": 16711935
-      }
-    },
-    {
-      "query": "Sistemi",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "TPSIT",
-      "color": {
-        "a": 1,
-        "rgb": 16737300
-      }
-    },
-    {
-      "query": "GPOI",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "Informatica",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.04427083333333,
-  "lineSizeMultiplier": 1.01875,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.65625,
-  "repelStrength": 20,
+  "centerStrength": 0.260416666666667,
+  "repelStrength": 5.625,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 0.7402850567162508,
+  "linkDistance": 165,
+  "scale": 0.7060817762651447,
   "close": false
 }

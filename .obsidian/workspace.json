@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matematica/Studio di funzione/Forme di indecisione.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,15 +144,15 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7f8a3122d0c88fa1",
+  "active": "17fc7bd8ec128208",
   "lastOpenFiles": [
+    "Matematica/Studio di funzione/Forme di indecisione.md",
     "Matematica/Studio di funzione/Dominio.md",
     "Matematica/Studio di funzione/Continuità.md",
     "Matematica/Studio di funzione/Limiti.md",
@@ -166,7 +161,6 @@
     "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md",
     "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
     "Matematica/Studio di funzione/Studio di funzione.md",
-    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md"
+    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md"
   ]
 }
