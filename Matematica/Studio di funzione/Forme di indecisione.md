@@ -36,6 +36,14 @@ $$\begin{aligned}
 &\frac{x^2\cdot(3-0+0)}{x^3\cdot(2+0-0)} = \\
 &\frac{3x^2}{2x^3}=\frac{3}{2x}=\frac{3}{\infty}=0
 \end{aligned}$$
+
+
+Come alternativa si può utilizzare il teorema di de l'Hopital (vedi Derivate).
+
+$$
+\lim_{x\to\infty}\biggl(\frac{f(x)}{g(x)}\biggl)=
+\lim_{x\to\infty}\biggl(\frac{f'(x)}{g'(x)}\biggl)
+$$
 ---
 # $$ \frac{0}{0} $$
 Per risolvere la forma di indecisione $\frac{0}{0}$ bisogna scomporre i termini del numeratore e del denominatore ([[Scomposizioni]]) e semplificare.

@@ -12,3 +12,15 @@ $$\lim_{x\to\pm\infty} f(x) = \pm\infty$$
 Mentre si risolve un limite si possono incontrare dei casi che possono apparire impossibili. Questi casi sono detti [[Forme di indecisione|forme di indecisione]].
 
 I limiti sono utilizzati per cercare eventuali [[Asintoto|asintoti]].
+
+---
+I limiti possono essere limiti destri o sinistri. Questi si presentano in questo modo:
+$$\begin{aligned}
+&\lim_{x\to a^+} f(x) \\
+&\lim_{x\to a^-} f(x)
+\end{aligned}$$
+Per calcolarli possiamo considerarli come "poco più di" o "poco meno di".
+È utile tenerli a mente quando per esempio dobbiamo fare un limite che equivale a infinito, in quanto ci può dare informazioni riguardo a dove la retta tende a $-\infty$ e a $+\infty$.
+
+---
+I limiti possono anche essere utilizzati per verificare la [[Continuità|continuità]] di una fuzione.
