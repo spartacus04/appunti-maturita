@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39dacc7b649c95d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79d30fa13b1439fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c23bf9e3d9687307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7dfb5ee2f0f3e71",
             "type": "leaf",
             "pinned": true,
@@ -54,55 +18,19 @@
             }
           },
           {
-            "id": "5232c294cff883a2",
+            "id": "e8c6530b702b1e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/SMTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abd38c42db73f631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/IMAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b08e3a087412ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/POP3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178a923a1cb94880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
+                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md"
+              }
             }
           },
           {
@@ -224,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7dfb5ee2f0f3e71",
+  "active": "e8c6530b702b1e2f",
   "lastOpenFiles": [
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/POP3.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/IMAP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/SMTP.md",
     "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
     "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/IMAP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/SMTP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
     "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/UDP.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md"
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/UDP.png",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/TCP.png",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
+    "Sistemi/Modello ISO-OSI/Livello Trasporto/UDP.md"
   ]
 }
