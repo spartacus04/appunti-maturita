@@ -18,19 +18,30 @@
             }
           },
           {
-            "id": "e8c6530b702b1e2f",
+            "id": "93c7d5b2c8551996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
+                "file": "Italiano/Ungaretti/Commiato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84a7fe6925aa1d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/La bell'epoque/L'italia di Giolitti.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c6530b702b1e2f",
+  "active": "c7dfb5ee2f0f3e71",
   "lastOpenFiles": [
-    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
-    "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/IMAP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/SMTP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/UDP.png",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/Res/TCP.png",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/UDP.md"
+    "Storia/La bell'epoque/L'italia di Giolitti.md",
+    "Italiano/Ungaretti/San Martino del Carso.md",
+    "Italiano/Ungaretti/Il porto sepolto.md",
+    "Matematica/Studio di funzione/Asintoto.md",
+    "Italiano/Ungaretti/Veglia.md",
+    "Italiano/Ungaretti/Ungaretti.md",
+    "Italiano/Ungaretti/Commiato.md",
+    "Italiano/Ungaretti/I fiumi.md",
+    "Storia/La bell'epoque/La bell'epoque.md",
+    "Storia/Linea Del Tempo/Linea Del tempo.md"
   ]
 }
