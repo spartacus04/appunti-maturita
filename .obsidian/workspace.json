@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "93c7d5b2c8551996",
+            "id": "c1b5922845254514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Ungaretti/Commiato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a7fe6925aa1d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/La bell'epoque/L'italia di Giolitti.md",
+                "file": "Italiano/Ungaretti/Fratelli.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,15 +153,15 @@
   },
   "active": "c7dfb5ee2f0f3e71",
   "lastOpenFiles": [
-    "Storia/La bell'epoque/L'italia di Giolitti.md",
-    "Italiano/Ungaretti/San Martino del Carso.md",
-    "Italiano/Ungaretti/Il porto sepolto.md",
-    "Matematica/Studio di funzione/Asintoto.md",
-    "Italiano/Ungaretti/Veglia.md",
+    "Italiano/Ungaretti/Fratelli.md",
     "Italiano/Ungaretti/Ungaretti.md",
-    "Italiano/Ungaretti/Commiato.md",
-    "Italiano/Ungaretti/I fiumi.md",
-    "Storia/La bell'epoque/La bell'epoque.md",
-    "Storia/Linea Del Tempo/Linea Del tempo.md"
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
+    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
+    "Sistemi/Modello ISO-OSI/Livello Rete/Res/IPv4.png",
+    "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/IMAP.md",
+    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md"
   ]
 }
