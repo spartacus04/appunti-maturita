@@ -3,7 +3,7 @@ Giuseppe Ungaretti fù un poeta italiano.
 
 Si considerava Apolide, quindi non si considerava cittadino di qualsiasi stato.
 
-Le sue opere più importanti sono le sue esperienze biografiche al fronte della WWI
+Le sue opere più importanti sono le sue esperienze biografiche al fronte della [[La grande guerra|WWI]].
 
 La sua caratteristica più importante è il suo ermetismo.
 Ermetismo è una parola che deriva dal nome di Ermete Trimegisto, un alchimista.

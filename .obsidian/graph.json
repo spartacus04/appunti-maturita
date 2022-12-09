@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#TODO",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "Matematica",
       "color": {
         "a": 1,
@@ -15,17 +22,17 @@
       }
     },
     {
-      "query": "Italiano",
-      "color": {
-        "a": 1,
-        "rgb": 16776966
-      }
-    },
-    {
       "query": "Storia",
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "Italiano",
+      "color": {
+        "a": 1,
+        "rgb": 16776966
       }
     },
     {
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.43259158256824276,
+  "scale": 0.4325915825682439,
   "close": false
 }
