@@ -1,5 +1,5 @@
 #matematica 
-Un asintoto è una retta utilizzata per disegnare una retta o una curva alla quale si avvicina indefinitivamente una funzione.
+>Un asintoto è una retta utilizzata per disegnare una retta o una curva alla quale si avvicina indefinitivamente una funzione.
 
 Ci sono 3 tipi di asintoti:
 - Asintoto verticale

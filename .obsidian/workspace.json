@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "10cb798e9d3501ff",
+            "id": "dfc2e2077daff183",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Storia/La grande guerra/La grande guerra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Storia/La grande guerra/La grande guerra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Storia/La grande guerra/La grande guerra.md"
+              }
             }
           },
           {
@@ -151,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7dfb5ee2f0f3e71",
+  "active": "dfc2e2077daff183",
   "lastOpenFiles": [
-    "Storia/La grande guerra/La grande guerra.md",
-    "Storia/La grande guerra/La grande guerra e le sue conseguenze.md",
     "Storia/La bell'epoque/L'italia di Giolitti.md",
-    "Matematica/Studio di funzione/Forme di indecisione.md",
-    "Storia/La bell'epoque/Il periodo della bell'epoque.md",
-    "Italiano/Ungaretti/Ungaretti.md",
-    "Italiano/Ungaretti/Commiato.md",
+    "Storia/La grande guerra/La grande guerra.md",
+    "Matematica/Studio di funzione/Asintoto.md",
+    "Matematica/Studio di funzione/Limiti.md",
     "Italiano/Ungaretti/Fratelli.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Protocolli del livello applicazione.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md"
+    "Italiano/Ungaretti/I fiumi.md",
+    "Italiano/Ungaretti/Il porto sepolto.md",
+    "Italiano/Ungaretti/San Martino del Carso.md",
+    "Italiano/Ungaretti/Ungaretti.md",
+    "Italiano/Ungaretti/Veglia.md"
   ]
 }
