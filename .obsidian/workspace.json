@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "dfc2e2077daff183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/La grande guerra/La grande guerra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/La grande guerra/La grande guerra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/La grande guerra/La grande guerra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Storia/La grande guerra/La grande guerra.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfc2e2077daff183",
+  "active": "c7dfb5ee2f0f3e71",
   "lastOpenFiles": [
-    "Storia/La bell'epoque/L'italia di Giolitti.md",
-    "Storia/La grande guerra/La grande guerra.md",
-    "Matematica/Studio di funzione/Asintoto.md",
-    "Matematica/Studio di funzione/Limiti.md",
-    "Italiano/Ungaretti/Fratelli.md",
-    "Italiano/Ungaretti/I fiumi.md",
-    "Italiano/Ungaretti/Il porto sepolto.md",
-    "Italiano/Ungaretti/San Martino del Carso.md",
-    "Italiano/Ungaretti/Ungaretti.md",
-    "Italiano/Ungaretti/Veglia.md"
+    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
+    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md",
+    "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/IMAP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/POP3.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/SMTP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/Mail.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
+    "Storia/La grande guerra/La grande guerra.md"
   ]
 }
