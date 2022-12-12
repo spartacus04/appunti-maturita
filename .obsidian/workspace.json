@@ -16,8 +16,37 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "e48b6fe41ca1b39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Ungaretti/Allegria di naufragi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04e32724a4ddeef4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb18cc872853556",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7dfb5ee2f0f3e71",
+  "active": "ad9688a956e7ee58",
   "lastOpenFiles": [
-    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md",
-    "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/IMAP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/POP3.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/SMTP.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/Mail.md",
-    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
-    "Storia/La grande guerra/La grande guerra.md"
+    "Italiano/Ungaretti/a/San Martino del Carso.md",
+    "Italiano/Ungaretti/a/Il porto sepolto.md",
+    "Italiano/Ungaretti/a/I fiumi.md",
+    "Italiano/Ungaretti/a/Fratelli.md",
+    "Italiano/Ungaretti/a/Commiato.md",
+    "Italiano/Ungaretti/a/Allegria di naufragi.md",
+    "Italiano/Ungaretti/Commiato.md",
+    "Italiano/Ungaretti/Allegria di naufragi.md",
+    "Italiano/Ungaretti/San Martino del Carso.md",
+    "Italiano/Ungaretti/Veglia.md"
   ]
 }
