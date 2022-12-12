@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Ungaretti/Allegria di naufragi.md",
+                "file": "Italiano/Ungaretti/Veglia.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Italiano/Ungaretti/Veglia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Italiano/Ungaretti/Veglia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Italiano/Ungaretti/Veglia.md"
+              }
             }
           },
           {
@@ -168,7 +172,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad9688a956e7ee58",
+  "active": "e48b6fe41ca1b39e",
   "lastOpenFiles": [
     "Italiano/Ungaretti/a/San Martino del Carso.md",
     "Italiano/Ungaretti/a/Il porto sepolto.md",

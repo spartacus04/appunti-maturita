@@ -47,3 +47,5 @@
 ## Commento
 
 Giuseppe Ungaretti prese parte alla Prima guerra mondiale e questa poesia fu proprio scritta durante questo conflitto, a pochi giorni dal giorno di Natale (l'indicazione «Cima quattro il 23 dicembre 1915»). Il tema trattato è la sofferenza patita in guerra, la caducità della vita (vita destinata e finire in breve tempo), l'angoscia della morte che incombe.
+
+Questa poesia è molto simile alla poesia Dulce et decorum di Wilfred Owen.
