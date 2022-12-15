@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Simbolismo/Il Simbolismo.md",
+                "file": "Italiano/Simbolismo/Rimbaud.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Simbolismo/Il Simbolismo.md",
+                "file": "Italiano/Simbolismo/Rimbaud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Simbolismo/Il Simbolismo.md",
+                "file": "Italiano/Simbolismo/Rimbaud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Simbolismo/Il Simbolismo.md"
+                "file": "Italiano/Simbolismo/Rimbaud.md"
               }
             }
           },
@@ -156,12 +156,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df182cb06ee5a99f",
+  "active": "ad9688a956e7ee58",
   "lastOpenFiles": [
+    "Italiano/Simbolismo/Baudelaire.md",
+    "Italiano/Simbolismo/Rimbaud.md",
     "Italiano/Simbolismo/Il Simbolismo.md",
     "2022-12-15.md",
-    "Italiano/Simbolismo/Rimbaud.md",
-    "Italiano/Simbolismo/Bauldelaire.md",
     "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/POP3.md",
     "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/SMTP.md",
     "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/Mail.md",
