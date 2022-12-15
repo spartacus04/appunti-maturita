@@ -15,56 +15,56 @@
       }
     },
     {
-      "query": "Matematica",
+      "query": "tag:#Matematica",
       "color": {
         "a": 1,
         "rgb": 255
       }
     },
     {
-      "query": "Storia",
+      "query": "tag:#Storia",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "Italiano",
+      "query": "tag:#Italiano",
       "color": {
         "a": 1,
         "rgb": 16776966
       }
     },
     {
-      "query": "Inglese",
+      "query": "tag:#Inglese",
       "color": {
         "a": 1,
         "rgb": 16711935
       }
     },
     {
-      "query": "Sistemi",
+      "query": "tag:#Sistemi",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "TPSIT",
+      "query": "tag:#TPSIT",
       "color": {
         "a": 1,
         "rgb": 16737300
       }
     },
     {
-      "query": "GPOI",
+      "query": "tag:#GPOI",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "Informatica",
+      "query": "tag:#Informatica",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.38230109687699704,
+  "scale": 0.4619356336636123,
   "close": false
 }

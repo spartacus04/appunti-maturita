@@ -18,31 +18,15 @@
             }
           },
           {
-            "id": "e48b6fe41ca1b39e",
+            "id": "df182cb06ee5a99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Ungaretti/Veglia.md",
+                "file": "Italiano/Simbolismo/Il Simbolismo.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "04e32724a4ddeef4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ddb18cc872853556",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Ungaretti/Veglia.md",
+                "file": "Italiano/Simbolismo/Il Simbolismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Ungaretti/Veglia.md",
+                "file": "Italiano/Simbolismo/Il Simbolismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Ungaretti/Veglia.md"
+                "file": "Italiano/Simbolismo/Il Simbolismo.md"
               }
             }
           },
@@ -172,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e48b6fe41ca1b39e",
+  "active": "df182cb06ee5a99f",
   "lastOpenFiles": [
-    "Italiano/Ungaretti/a/San Martino del Carso.md",
-    "Italiano/Ungaretti/a/Il porto sepolto.md",
-    "Italiano/Ungaretti/a/I fiumi.md",
-    "Italiano/Ungaretti/a/Fratelli.md",
-    "Italiano/Ungaretti/a/Commiato.md",
-    "Italiano/Ungaretti/a/Allegria di naufragi.md",
-    "Italiano/Ungaretti/Commiato.md",
-    "Italiano/Ungaretti/Allegria di naufragi.md",
-    "Italiano/Ungaretti/San Martino del Carso.md",
-    "Italiano/Ungaretti/Veglia.md"
+    "Italiano/Simbolismo/Il Simbolismo.md",
+    "2022-12-15.md",
+    "Italiano/Simbolismo/Rimbaud.md",
+    "Italiano/Simbolismo/Bauldelaire.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/POP3.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/SMTP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/Mail.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/Mail/IMAP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/FTP.md",
+    "Sistemi/Modello ISO-OSI/Livello Applicazione/DNS.md"
   ]
 }

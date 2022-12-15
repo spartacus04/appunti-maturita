@@ -104,7 +104,7 @@ La suddivisione in sottoreti non è visibile al di fuori della rete LAN.
 
 Vedi Indirizzo IP e subnet mask.
 
-Per vedere il numero massimo di host in una sottorete $2^h$ dove h è il numero di bit dedicato agli host.
+Per vedere il numero massimo di host in una sottorete $2^h -2$ dove h è il numero di bit dedicato agli host.
 
 Per assegnare gli indirizzi IP ai vari host di una rete l'amministratore trasferisce dei bit dal campo host al campo subnet.
 Gli host appartenenti alla sottostessa rete comunicano direttamente.

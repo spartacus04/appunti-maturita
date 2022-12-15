@@ -1,18 +1,18 @@
 #Italiano
-| Nome                                      | Valore                                                                   |
-| ----------------------------------------- | ------------------------------------------------------------------------ |
-| Autore                                    | [[Ungaretti]]                                                            |
-| Data                                      | 16 agosto 1916                                                           |
-| Tratto da                                 | L'allegria                                                               |
-| Luogo                                     | Cotici                                                                   | 
-| Motivi per cui abbiamo studiato la lirica | Abbiamo studiato questa lirica per leggere tutte le poesie dell'allegria |
-| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti        |
-| Impostazione grafica                      | Allineata a sinistra                                                     |
-| Versi                                     | Liberi                                                                   |
-| Strofe                                    | 15                                                                        |
-| Sonetti                                   | 1                                                                        |
-| Rime                                      | Sciolte                                                                  |
-| Punti notevoli                            | La poesia è totalmente libera                                            |
+| Nome                                      | Valore                                                                                                             |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Autore                                    | [[Ungaretti]]                                                                                                      |
+| Data                                      | 16 agosto 1916                                                                                                     |
+| Tratto da                                 | L'allegria                                                                                                         |
+| Luogo                                     | Cotici                                                                                                             |
+| Motivi per cui abbiamo studiato la lirica | Abbiamo studiato questa lirica per leggere tutte le poesie dell'allegria                                           |
+| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti, inoltre possiamo vedere riferimenti alla natura | 
+| Impostazione grafica                      | Allineata a sinistra                                                                                               |
+| Versi                                     | Liberi                                                                                                             |
+| Strofe                                    | 15                                                                                                                 |
+| Sonetti                                   | 1                                                                                                                  |
+| Rime                                      | Sciolte                                                                                                            |
+| Punti notevoli                            | La poesia è totalmente libera                                                                                      |
 
 ---
 ## Parafrasi

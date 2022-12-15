@@ -1,5 +1,5 @@
 #Italiano 
-Giuseppe Ungaretti fù un poeta italiano.
+Giuseppe Ungaretti fu un poeta italiano.
 
 Si considerava Apolide, quindi non si considerava cittadino di qualsiasi stato.
 
