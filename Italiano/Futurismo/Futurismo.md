@@ -4,7 +4,7 @@
 
 Il futurismo fà parte delle [[Avanguardie]].
 
-Gli autori principali sono [[Filippo Martinetti]] e [[Aldo Palazzeschi]].
+Gli autori principali sono [[Filippo Marinetti]] e [[Aldo Palazzeschi]].
 
 ---
 ## Dal punto di vista distruttivo

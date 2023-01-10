@@ -1,7 +1,7 @@
 #Italiano 
 | Nome                   | Valore                                                                                             |
 | ---------------------- | -------------------------------------------------------------------------------------------------- |
-| Autore                 | [[Filippo Martinetti]]                                                                             |
+| Autore                 | [[Filippo Marinetti]]                                                                             |
 | Genere                 | Brano                                                                                              |
 | Tratto da              | Zang Tumb Tumb                                                                                     |
 | Data                   | 1914                                                                                               |
