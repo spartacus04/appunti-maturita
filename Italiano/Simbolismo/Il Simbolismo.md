@@ -1,5 +1,5 @@
 #Italiano 
-> Il simbolismo è un movimento culturale sviluppato in francia nato per opporsi alla filosofia del [[Positivismo]] e al [[Realismo]]
+>Il simbolismo è un movimento culturale sviluppato in francia nato per opporsi alla filosofia del [[Positivismo]] e al [[Realismo]]
 
 Per i simbolisti il mondo nasconde delle dimensioni, che i sensi e la ragione non possono descrivere, ma possono essere descritte dall'intuizione dai poeti, che ne colgono i lati oscuri e ne indagano il mistero. Come ci dice [[Baudelaire]], i poeti devono osservare la natura come una foresta di simboli, da interpretare e decifrare con la capacità visionaria del veggente.
 

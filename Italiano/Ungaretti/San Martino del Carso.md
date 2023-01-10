@@ -1,18 +1,18 @@
 #Italiano
-| Nome                                      | Valore                                                                   |
-| ----------------------------------------- | ------------------------------------------------------------------------ |
-| Autore                                    | [[Ungaretti]]                                                            |
-| Data                                      | 27 agosto 1916                                                           |
-| Tratto da                                 | L'allegria                                                               |
-| Luogo                                     | Valloncello                                                              | 
-| Motivi per cui abbiamo studiato la lirica | Abbiamo studiato questa lirica per leggere tutte le poesie dell'allegria |
-| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti        |
-| Impostazione grafica                      | Allineata a sinistra                                                     |
-| Versi                                     | Liberi                                                                   |
-| Strofe                                    | 4                                                                        |
-| Sonetti                                   | 1                                                                        |
-| Rime                                      | Sciolte                                                                  |
-| Punti notevoli                            | La poesia è totalmente libera                                            |
+| Nome                                      | Valore                                                                                             |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Autore                                    | [[Ungaretti]]                                                                                      |
+| Data                                      | 27 agosto 1916                                                                                     |
+| Tratto da                                 | L'allegria                                                                                         |
+| Luogo                                     | Valloncello                                                                                        |
+| Motivi per cui abbiamo studiato la lirica | Abbiamo studiato questa lirica per leggere tutte le poesie dell'allegria                           |
+| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti e le parti negative della guerra | 
+| Impostazione grafica                      | Allineata a sinistra                                                                               |
+| Versi                                     | Liberi                                                                                             |
+| Strofe                                    | 4                                                                                                  |
+| Sonetti                                   | 1                                                                                                  |
+| Rime                                      | Sciolte                                                                                            |
+| Punti notevoli                            | La poesia è totalmente libera                                                                      |
 
 ---
 ## Parafrasi
