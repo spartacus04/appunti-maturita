@@ -11,7 +11,3 @@
 | Elementi importanti    | Il tipico paroliberismo del Futurismo                                                              | 
 | Elementi della poetica | /                                                                                                  |
 | Elementi del movimento | Possiamo notare il paroliberismo, il favoreggiamento alla guerra e la mancanza della punteggiatura |
-
----
-## Riassunto
-
