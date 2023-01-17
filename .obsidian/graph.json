@@ -69,9 +69,16 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "tag:#ECivica",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.04427083333333,
@@ -81,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.32396762588973976,
+  "scale": 0.3272682655166378,
   "close": false
 }

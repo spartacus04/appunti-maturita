@@ -21,7 +21,7 @@
 ---
 ## Parafrasi
 
-`"Non è possibile fare la parafrasi in quanto è già parafrasata"`
+`"Non è possibile fare la parafrasi in quanto lo stile futurista ha un proprio stile non parafrasabile"`
 
 ---
 ## Figure retoriche
@@ -38,4 +38,3 @@
 ## Commento
 
 L'Autore vede la guerra come uno spettacolo, come il culmine della pienezza vitale. Possiamo vedere la parte decisiva giocata dalle macchine e la teatralizzazione di questi avvenimenti, come se fosse recitata.
-
