@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"682bb2bd2a9466d4","x":-440,"y":-366,"width":400,"height":1209,"type":"file","file":"GPOI/U2/ERP.md"},
+		{"id":"c8d5df90d97581cb","x":-40,"y":-366,"width":400,"height":794,"type":"file","file":"GPOI/U2/Redditivita.md"},
+		{"id":"506066bc09246b54","x":-40,"y":428,"width":400,"height":297,"type":"file","file":"GPOI/U2/Operation Management.md"},
+		{"id":"e528790c8a4195a7","x":360,"y":-366,"width":400,"height":697,"type":"file","file":"GPOI/U2/Sistema Informativo.md"},
+		{"id":"80c447d810c1f398","x":360,"y":331,"width":400,"height":374,"type":"file","file":"GPOI/U2/Startup.md"}
+	],
+	"edges":[]
+}
