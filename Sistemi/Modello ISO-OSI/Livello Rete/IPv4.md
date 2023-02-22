@@ -15,12 +15,12 @@ Il preambolo Ipv4 è composto in questo modo:
    - Bit 1: (DF) se vale 1 impone ai router di non frammentare il datagramma
    - Bit 0: (MF) se vale 1 il pacchetto fa parte di un datagramma, se vale 0 identifica l'ultimo pacchetto di un datagramma
 - **Fragment offset**: Indica la posizione del frammento nel datagramma corrente
-- **TTL**: Contatore utilizzato per limitare la vita del paccehtto. A ogni salto è decrementato e quando raggiuge 0 il pacchetto è scartato.
+- **TTL**: Contatore utilizzato per limitare la vita del pacchetto. A ogni salto è decrementato e quando raggiunge 0 il pacchetto è scartato.
 - **Protocol**: Indica il protocollo del livello 4 (TCP o UDP)
 - **Header Checksum**: Contiene il valore del checksum
-- **Source Address** e **Destination address**: ip del mittente e destinatario
+- **Source Address** e **Destination address**: Ip del mittente e destinatario
 - **Options**: campo opzionale inserito tra la fine del preambolo e l'inizio dei dati per inserire dati importanti al routing
-- **Padding**: bit vuoti per arrivare a un multipo di 32
+- **Padding**: bit vuoti per arrivare a un multiplo di 32
 - **Payload**: contenuto del messaggio
 ---
 ## Indirizzo e subnet mask
@@ -99,7 +99,7 @@ Gli IP privati sono utilizzati per fornire:
 ---
 ## Subnetting
 
-Il subnetting permette di non sprecare gli indirizzi inutilizzati dividento un ip in sottoreti.
+Il subnetting permette di non sprecare gli indirizzi inutilizzati dividendo un ip in sottoreti.
 La suddivisione in sottoreti non è visibile al di fuori della rete LAN.
 
 Vedi Indirizzo IP e subnet mask.

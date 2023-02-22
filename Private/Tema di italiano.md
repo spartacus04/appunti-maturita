@@ -12,21 +12,26 @@
 
 2) Nella lirica sono presenti diverse figure retoriche. Individuale e spiegale nel contesto della lirica.
 
-| Nome | Figura retorica |
-| ---- | --------------- |
-|      |                 |
+| Tipo       | Figura retorica                           |
+| ---------- | ----------------------------------------- |
+| Assonanza  | "intera", "nottata"                       |
+| Assonanza  | "coricato", "vicino", "compagno", "morto" |
+| Sineddoche | "con la congestione delle sue mani"       |
+| Metafora   | "penetrata nel mio silenzio"              |
+| Metafora   | "Attaccato alla vita"                     | 
 
 3) La lirica è costituita da due strofe. Quali differenze di contenuto noti tra la prima e la seconda strofa.
 
->s
+>Nella prima strofa possiamo notare il tipico odio per la guerra Ungarettiano e la sua corrispondenza con la natura, principalmente perchè l'Autore attinge l'ispirazione che lo porta a scrivere l'opera dalla luna, che sta osservando il suo compagno morto con la bocca aperta, come se fosse stupito.
+>Al contrario nella seconda strofa possiamo vedere l'amore per la vita di Ungaretti, in quanto si è trovato per tutta la notte letteralmente attaccato alla morte
 
 4) Ungaretti è considerato un poeta "ermetico". Che cosa significa? È possibile individuare i tratti dell'Ermetismo in questa lirica? In quali passaggi e perché?
 
->s
+>L'ermetismo è uno stile letterario che deriva dal nome del leggendario Alchimista Ermete Trimegisto. La caratteristica principale dell'ermetismo è l'espressione in modo poco chiara e oscura dei concetti di cui ci vuole parlare l'autore. Per quanto riguarda all'Autore è attribuito allo stile di scrittura, ma si pensa anche sia dovuto alla mancanza di materiale su cui scrivere. In questo testo possiamo principalmente notarla tra le righe 9-11, in quanto sono poco chiare e fanno uso di una Metominia per rendere il significato oscutoro
 
 5) Torniamo all'indicazione "Cima Quattro, il 23 dicembre 1915". Puoi proporre una riflessione "storica" riguardante la partecipazione dell'Italia alla prima guerra mondiale?
 
->s
+>Il 24 maggio 1915 l'Italia entra in guerra. L'Italia era inizialmente neutrale, tuttavia dopo a ver partecipato al patto segreto di Londra, l'Italia entra in guerra contro l'Austria, con lo scopo di ottenere Trento e Trieste. Delle persone favorevoli all'interventismo faceva parte l'Autore Ungaretti, che si arruolerà nella seconda armata poco dopo l'inizio della guerra. Tuttavia l'Autore riconsidererà la suo opinione una volta viste le atrocità della guerra. Dopo otto stremanti mesi sul fronte dell'Isonzo, più precisamente sul fronte del monte San Michele, l'Autore si trova a passare una nottata di fianco alla salma di un suo compagno morto da poco, e qui possiamo notare il suo cambiamento di animo, in quanto dirà di non essere mai stato cosi tanto attaccato alla vita.
 
 ---
 ## Produzione

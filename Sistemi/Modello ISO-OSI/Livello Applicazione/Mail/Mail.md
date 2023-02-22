@@ -9,6 +9,6 @@ Quindi per l'invio di un messaggio email Lo User Agent del mittente comporrà un
 ## Struttura di un email
 
 Una mail è composta da:
-- **Envelope**: che contiene tutte le info necessare al trasporto
+- **Envelope**: che contiene tutte le info necessarie al trasporto
 - **Header**: che contiene informazioni utili gli user agent
 - **Body**: che contiene il vero e proprio messaggio. Il body utilizza lo standard MIME, che permette di stabilire delle regole per la codifica e decodifica in ASCII di tipi di messaggi diversi.

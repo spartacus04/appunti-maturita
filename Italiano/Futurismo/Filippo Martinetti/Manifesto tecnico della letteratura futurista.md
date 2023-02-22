@@ -25,4 +25,3 @@
 8. Non ci sono categorie di immagini
 9. Per dare movimento ad un oggetto è necessario dare una catena di analogie che evoca
 10. Le immagini devono essere disposte secondo un maximum disordine
-11. 

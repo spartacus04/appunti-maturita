@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#TODO",
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 179,
-  "scale": 0.3272682655166378,
+  "scale": 0.27733198746900106,
   "close": false
 }

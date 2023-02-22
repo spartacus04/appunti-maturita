@@ -6,5 +6,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Sistemi/Modello ISO-OSI/Livello Rete/res"
+  "attachmentFolderPath": "Sistemi/Modello ISO-OSI/Livello Rete/res",
+  "spellcheck": true
 }

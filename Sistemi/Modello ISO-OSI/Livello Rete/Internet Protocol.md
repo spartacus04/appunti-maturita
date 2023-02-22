@@ -13,7 +13,7 @@ IP ha le seguenti funzioni:
 - **encapsulation**: imbusta i dati che arrivano dal livello di trasporto lato mittente
 - **addressing**: fornisce l'indirizzamento ai pacchetti
 - **routing:** garantisce l'instradamento dei pacchetti
-- **de-capsulation**: permette lo spacchettamento dei pacchetti ricevuti, togle la busta di livello 3 e passa i dati al livello di trasporto, lato ricevente.
+- **de-capsulation**: permette lo spacchettamento dei pacchetti ricevuti, toglie la busta di livello 3 e passa i dati al livello di trasporto, lato ricevente.
 
 ---
 Ip è indipendente dal mezzo trasmissivo, ma la dimensione del pacchetto non può tener conto della grandezza del frame di livello 2 (MTU). Quindi in alcuni casi il router è costretto a suddividere il pacchetto in frammenti più piccoli prima di inviarli
