@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "0ceeb991188f131c",
+            "id": "60fc7d79fef66459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
+                "file": "Tema Italiano.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
+                "file": "Tema Italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
+                "file": "Tema Italiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md"
+                "file": "Tema Italiano.md"
               }
             }
           },
@@ -166,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ceeb991188f131c",
+  "active": "60fc7d79fef66459",
   "lastOpenFiles": [
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/UDP.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/Livello Trasporto.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/Internet Protocol.md",
-    "Sistemi/Modello ISO-OSI/Livello Trasporto/TCP.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/IPv4.md",
-    "Sistemi/Modello ISO-OSI/Modello ISO-OSI.md",
-    "Sistemi/Modello ISO-OSI/Modello TCP-IP.md",
-    "Sistemi/Modello ISO-OSI/Livello Rete/IPv6.md",
-    "Educazione Civica/Seminario dell'università dell'Insubria.md",
-    "Verifica di GPOI DSA.md"
+    "Untitled.md",
+    "Tema Italiano.md",
+    "Rivoluzione russa.md",
+    "Untitled 1.md",
+    "Italiano/Crepuscolarismo/Crepuscolarismo.md",
+    "Verifica di GPOI DSA.md",
+    "Simulazione esame di stato.md",
+    "ORO.md",
+    "Macchinari.md",
+    "2023-02-11.md"
   ]
 }

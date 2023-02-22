@@ -2,9 +2,9 @@
 
 >Il futurismo è un movimento artistico e culturale ma spesso anche distruttivo che promuove il movimento verso nuovi metodi di espressione
 
-Il futurismo fà parte delle [[Avanguardie]].
+Il futurismo fa parte delle [[Avanguardie]].
 
-Gli autori principali sono [[Filippo Martinetti]], [[Aldo Palazzeschi]] e [[Corrado Govoni]].
+Gli autori principali sono [[Filippo Marinetti]], [[Aldo Palazzeschi]] e [[Corrado Govoni]].
 
 ---
 ## Dal punto di vista distruttivo
