@@ -1,4 +1,5 @@
 #Italiano
+
 | Nome                                      | Valore                                                                                                                                                                     |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Autore                                    | [[Ungaretti]]                                                                                                                                                              |
@@ -6,7 +7,7 @@
 | Tratto da                                 | L'allegria                                                                                                                                                                 |
 | Luogo                                     | Cima Quattro                                                                                                                                                               |
 | Motivi per cui abbiamo studiato la lirica | Abbiamo studiato questa lirica per leggere tutte le poesie dell'allegria                                                                                                   |
-| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti, possiamo anche vedere gli elementi negativi della guerra e la voglia di vivere positivista di ungaretti | 
+| Aspetti della poetica                     | In questa lirica possiamo notare il tipico ermetismo di ungaretti, possiamo anche vedere gli elementi negativi della guerra e la voglia di vivere positivista di ungaretti |
 | Impostazione grafica                      | Allineata a sinistra                                                                                                                                                       |
 | Versi                                     | Liberi                                                                                                                                                                     |
 | Strofe                                    | 2                                                                                                                                                                          |
