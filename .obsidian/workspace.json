@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "60fc7d79fef66459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema Italiano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema Italiano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema Italiano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tema Italiano.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,17 +149,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60fc7d79fef66459",
+  "active": "78c3707d0cbd7265",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Tema Italiano.md",
-    "Rivoluzione russa.md",
-    "Untitled 1.md",
+    "Italiano/Futurismo/Avanguardie.md",
     "Italiano/Crepuscolarismo/Crepuscolarismo.md",
-    "Verifica di GPOI DSA.md",
-    "Simulazione esame di stato.md",
-    "ORO.md",
-    "Macchinari.md",
-    "2023-02-11.md"
+    "Italiano/Crepuscolarismo/Guido Gozzano/Guido Gozzano.md",
+    "Italiano/Crepuscolarismo/Guido Gozzano/Alle soglie.md",
+    "Italiano/Ungaretti/Allegria di naufragi.md",
+    "Corrado Govoni.md",
+    "Italiano/Futurismo/Futurismo.md",
+    "Tema Italiano.md",
+    "Untitled.md",
+    "Rivoluzione russa.md"
   ]
 }

@@ -1,11 +1,16 @@
 #Italiano 
-1. La parola crepuscolarismo viene da crepuscolo. Per crepuscolo si intende la luce limitata e incerta del cielo subito dopo il tramonto o poco prima dell'alba.
-2. Ma perché crepuscolarismo in senso letterario? Fu il critico letterario Giuseppe Antonio Borghese ad utilizzare questo termine per indicare un movimento di giovani poeti che rappresentavano un modo di fare poesia in disfacimento, che si spegneva, che faceva tramontare la "gloriosa poesia dell'800".
-3. Quali furono i gli autori più noti? Guido Gozzano, Sergio Corazzini, Massimo Moretti, Aldo Palazzeschi, [[Corrado Govoni]].
-4. Il crepuscolarismo sembra quasi l'alter ego del futurismo, infatti si sviluppa in parallelo al futurismo, nella stessa epoca e molti dei poeti crepuscolari avevano fatto parte del futurismo (Palazzeschi, Govoni)
-5. I contenuti e temi del crepuscolarismo sono:
-	1. Ambienti, situazioni, oggetti… della vita
-	2. Il rifiuto della retorica altisonante
-	3. Il rifiuto della esaltazione eroica o passionale
-	4. L'idea dell'arte come gioco, non come missione o impegno civile
-	5. 
+Il crepuscolarismo viene dalla parola crepuscolo, cioè la luce del cielo poco prima dell'alba e subito dopo il tramonto
+
+Crepuscolarismo è un termine coniato da un critico letterario per indicare un movimento di giovani poeti che rappresentavano un modo di fare poesia in disfacimento, che faceva tramontare la poesia dell'800
+
+Si sviluppa in parallelo al futurismo e infatti è considerata un [[Avanguardie|Avanguardia]] e molti poeti futuristi furono anche crepuscolari ([[Aldo Palazzeschi]] e [[Corrado Govoni]])
+
+I temi principali del crepuscolarismo sono:
+- Ambienti, situazioni, oggetti… della vita
+- Il rifiuto della retorica altisonante
+- Il rifiuto della esaltazione eroica o passionale
+- L'idea dell'arte come gioco, non come missione o impegno civile
+- Il rifiuto della figura del poeta vate (sacerdote sacro della patria) su cui d'annunzio costruì la sua immagine e ruolo politico. Infatti dichiara Corazzini: "Io non sono un poeta. Io non sono che un piccolo fanciullo che piange". Si tratta quindi di una protesta artistica e letteraria nei confronti del poeta vate che esaltava la guerra e la patria.
+
+
+I principali autori furono [[Guido Gozzano]], Sergio Corazzini (Piccolo libro inutile, libro per la sera della domenica, depressione di un povero poeta sentimentale), Massimo Moretti (Poesie scritte col lapis, poesie di tutti i giorni, la vedova Fioravanti), [[Aldo Palazzeschi]],[[Corrado Govoni]] (Le fiabe, rarefazioni).
