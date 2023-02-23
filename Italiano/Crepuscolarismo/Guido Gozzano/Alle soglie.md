@@ -25,20 +25,20 @@ Possiamo osservare come la poesia sia al contempo drammatica e scherzosa, un po 
 
 1.
 Prima parte: "visita dal dottore"
-Seconda parte: "la  radioscopia spaventosa"
-Terza parte: "Una nuova vita"
+Seconda parte: "la malattia"
+Terza parte: "La morte"
 
 2.
-Gli elementi del crepuscolarismo sono la monotonia di una semplice visita dal dottore e la scarsa fiducia nella scienza e nei confronti della visita.
+Gli elementi del crepuscolarismo sono la semplicità di una visita dal dottore e la scarsa fiducia nella scienza.
 
 3.
 Un epiteto usato in modo ricorrente nel testo è "mio cuore monello"
 
 4.
-Gozzano, nei confronti dei medici, manifesta un certo scetticismo. Lui non crede nella scienza e non capisce il senso di ascoltare questi "vecchi saputi" che vedono cose che lui non vede.
+Gozzano, nei confronti dei medici, manifesta un certo scetticismo. Lui non crede nella scienza e non capisce il senso di ascoltare i medici.
 
 5.
-Il poeta scrive il suo nome tutto attaccato perché si considera infimo e inutile, come un ammasso di cellule mal'accozzate
+Il poeta scrive il suo nome tutto attaccato perché si considera infimo e inutile.
 
 6.
 L'iponia del poeta nel testo ricade soprattutto nei confronti della scienza e dei medici ma essa ricade anche su se stesso quando nell'ultimo paragrafo parla di sé.

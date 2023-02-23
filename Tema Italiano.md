@@ -1,6 +1,7 @@
 #Italiano 
 # idee buttate giù
 ### questa parte è semplicemente buttata giù così per trovare delle idee velocemente sulla parte psicologica del tema. è totalmente priva di senso logico, sono soltanto idee.
+### Potremmo definirlo brainstorming ma manca di collegamenti logici e coerenza-.
 
 opera teatrale con orchestra che accompagna l'intero movimento.
 
