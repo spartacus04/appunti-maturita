@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "364a534e95d1c55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/Progettazione Logica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499a8c5f7e3dd714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatica/Progettazione Logica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatica/Progettazione Logica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatica/Progettazione Logica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatica/Progettazione Logica.md"
+              }
             }
           },
           {
@@ -149,17 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78c3707d0cbd7265",
+  "active": "364a534e95d1c55a",
   "lastOpenFiles": [
+    "Informatica/Esercizio.md",
+    "Informatica/Analisi delle ridondanze.md",
+    "Italiano/Crepuscolarismo/Guido Gozzano/Alle soglie.md",
+    "Italiano/Crepuscolarismo/Guido Gozzano/Guido Gozzano.md",
+    "Italiano/Crepuscolarismo/Crepuscolarismo.md",
+    "Italiano/Futurismo/Aldo Palazzeschi/Aldo Palazzeschi.md",
+    "Informatica/Progettazione Logica.md",
+    "Informatica/Eliminazione delle generalizzazioni.md",
+    "Macchinari.md",
     "Untitled.md",
     "Tema Italiano.md",
     "Rivoluzione russa.md",
-    "Italiano/Crepuscolarismo/Guido Gozzano/Alle soglie.md",
-    "Italiano/Crepuscolarismo/Guido Gozzano/Guido Gozzano.md",
     "Untitled 1.md",
     "Italiano/Futurismo/Avanguardie.md",
     "Italiano/Futurismo/Futurismo.md",
-    "Italiano/Crepuscolarismo/Crepuscolarismo.md",
     "Italiano/Ungaretti/Allegria di naufragi.md",
     "Corrado Govoni.md"
   ]

@@ -1,9 +1,9 @@
 #Italiano 
-Il crepuscolarismo viene dalla parola crepuscolo, cioè la luce del cielo poco prima dell'alba e subito dopo il tramonto
+Il crepuscolarismo viene dalla parola crepuscolo, cioè la luce del cielo poco prima dell'alba e subito dopo il tramonto.
 
-Crepuscolarismo è un termine coniato da un critico letterario per indicare un movimento di giovani poeti che rappresentavano un modo di fare poesia in disfacimento, che faceva tramontare la poesia dell'800
+Crepuscolarismo è un termine coniato da un critico letterario per indicare un movimento di giovani poeti che rappresentavano un modo di fare poesia in disfacimento, che faceva tramontare la poesia dell'800.
 
-Si sviluppa in parallelo al futurismo e infatti è considerata un [[Avanguardie|Avanguardia]] e molti poeti futuristi furono anche crepuscolari ([[Aldo Palazzeschi]] e [[Corrado Govoni]])
+Si sviluppa in parallelo al futurismo e infatti è considerata un [[Avanguardie|Avanguardia]] e molti poeti futuristi furono anche crepuscolari ([[Aldo Palazzeschi]] e [[Corrado Govoni]]).
 
 I temi principali del crepuscolarismo sono:
 - Ambienti, situazioni, oggetti… della vita
