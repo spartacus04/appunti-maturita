@@ -40,12 +40,14 @@ $K_A$ = Chiave primaria di B
 R = Relazione
 
 ## Rappresentare associazioni tipo 1:1
-
+- Nel caso nessuna relazione sia facoltativa si accorpano in una sola relazione
+- Nel caso una relazione sia facoltativa l'entità non facoltativa riceve la chiave esterna
+- Nel caso entrambe le relazioni siano facoltative entrambe le entità ricevono la chiave esterna
 
 ## Rappresentare associazioni tipo N:N
 
 $R_B(<\underline{K_B}, <Attributi B>)$
-$R_S(<\underline{K_A}>, <K_B>)$
+$R_S(<\underline{K_A}>, <K_B>, <AttributiS>)$
 $R_A(<\underline{K_A}> <AttributiA>)$
 
 ## Rappresentare associazioni su una stessa entità
