@@ -7,5 +7,9 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "Sistemi/Modello ISO-OSI/Livello Rete/res",
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "en-GB"
+  ]
 }
